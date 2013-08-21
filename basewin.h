@@ -1,3 +1,7 @@
+
+/// base windows 베이스 윈도우즈 ㅋㅋ
+
+
 template <class DERIVED_TYPE> 
 class BaseWindow
 {
