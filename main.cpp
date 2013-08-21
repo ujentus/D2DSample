@@ -19,6 +19,11 @@ template <class T> void SafeRelease(T **ppT)
     }
 }
 
+/// 테스트 d2d
+/// d2d zola 편하네... 
+
+
+
 class Scene
 {
     ID2D1Factory                *m_pFactory;
