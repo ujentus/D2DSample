@@ -1,5 +1,5 @@
-
-/// base windows º£ÀÌ½º À©µµ¿ìÁî ¤»¤»
+ï»¿
+/// base windows ë² ì´ìŠ¤ ìœˆë„ìš°ì¦ˆ ã…‹ã…‹
 
 
 template <class DERIVED_TYPE> 
